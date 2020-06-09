@@ -1,0 +1,3 @@
+[submodule "WorkSpace/EventSystem"]
+	path = WorkSpace/EventSystem
+	url = https://github.com/ImmaculateEmpyrean/EventSystem.git
